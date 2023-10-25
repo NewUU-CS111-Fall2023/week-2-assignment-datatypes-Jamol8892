@@ -1,21 +1,22 @@
 /*
- * Author:
- * Date:
+ * Author: Jamol (it wasn't easy, the next time, please, give easier home tasks)
+ * Date: 25.10.2023
  */
 
 #include <iostream>
 #include "task_1.h"
+#include "task_2.h"
+#include "task_4.h"
+#include "task_5.h"
 
 int main() {
     std::cout << "Task 1" << std::endl;
-    // call for task 1
+    leapYear();
     std::cout << "Task 2" << std::endl;
-    // call for task 2
-    std::cout << "Task 3" << std::endl;
-    // call for task 3
+    GuessNumber();
     std::cout << "Task 4" << std::endl;
-    // call for task 4
+    MatchStr();
     std::cout << "Task 5" << std::endl;
-    // call for task 5
+    SpawnPrediction();
     return 0;
 }
