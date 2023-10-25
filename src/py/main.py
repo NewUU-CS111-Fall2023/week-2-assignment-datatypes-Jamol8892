@@ -1,7 +1,7 @@
 # * Author:
 # * Date:
 
-// Task 3:
+# Task 3:
 
 A = int(input("Enter number A: "))
 largeNumber = 10 ** 99
